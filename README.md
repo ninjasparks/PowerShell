@@ -1,2 +1,2 @@
 # PowerShell
-Collection of PowerShell Scripts
+Collection of PowerShell Scripts in the ninjasparks realm.
